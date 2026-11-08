@@ -1,4 +1,3 @@
-Python
 import sys
 
 number = int(sys.argv[1])
